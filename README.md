@@ -7,13 +7,16 @@
 - by Ohyes design
 
 
+# 数值设计
+
+- by reappetheart
+
+
 # 音乐流派
 
 ## 细节
 
 欢乐鬼叫[连接到天音宗](./music/music.md)
-
-- By yc
 
 
 # help

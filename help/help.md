@@ -25,6 +25,7 @@ VScode 顶部搜索输入 `> 创建目录`  自动目录跳转索引生成
 https://tool.lu/tables/  
 描述性文档表格，编辑好后复制代码粘贴
 
+AI chatgpt生成
 
 ## 复杂数值设计表格
 
@@ -35,6 +36,8 @@ https://tableconvert.com/excel-to-markdown
 
 可以上传execl然后改成任意格式或者复制markdown格式进入md
 
+
+AI chatgpt生成
 
 ## 数学公式
 插入 LaTeX 公式
